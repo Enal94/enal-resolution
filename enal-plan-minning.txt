@@ -5,3 +5,4 @@ Plan mining insight
   - What i do extra
 - Reading a lecture folder
 - Make a resume and upload
+- Reading a lecture based on job Requirements
